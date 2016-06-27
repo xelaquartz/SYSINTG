@@ -10,5 +10,7 @@ package exercises;
  * @author Student
  */
 public class BAGO {
-    
+    public static void main(String args[]){
+        
+    }
 }
